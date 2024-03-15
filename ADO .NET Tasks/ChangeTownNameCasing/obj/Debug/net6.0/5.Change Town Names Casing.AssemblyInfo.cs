@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("5.Change Town Names Casing")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbe2c83d2d7ff00ebd10913378fef0de1c20b311")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27c302477a61dd79cdae47af5008e40016c536de")]
 [assembly: System.Reflection.AssemblyProductAttribute("5.Change Town Names Casing")]
 [assembly: System.Reflection.AssemblyTitleAttribute("5.Change Town Names Casing")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

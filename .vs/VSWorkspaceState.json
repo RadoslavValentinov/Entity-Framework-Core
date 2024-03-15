@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Exam Tranning",
+    "\\Exam Tranning\\Exam-Artillery"
   ],
-  "SelectedNode": "\\ExamTask 1",
+  "SelectedNode": "\\Exam Tranning\\Exam-Artillery\\StartUp.cs",
   "PreviewInSolutionExplorer": false
 }
