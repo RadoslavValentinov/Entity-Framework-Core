@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Artillery")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27c302477a61dd79cdae47af5008e40016c536de")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+499da8157b3b8dae5653289c75db337ff65bc66a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Artillery")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Artillery")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
