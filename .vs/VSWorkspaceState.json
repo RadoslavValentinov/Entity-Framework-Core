@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\Exam Tranning",
-    "\\Exam Tranning\\Exam-Artillery"
+    "\\Exam Tranning\\Exam-SoftuniJail",
+    "\\Exam Tranning\\Exam-SoftuniJail\\DataProcesor",
+    "\\Exam Tranning\\Exam-SoftuniJail\\Data\\Models"
   ],
-  "SelectedNode": "\\Exam Tranning\\Exam-Artillery\\StartUp.cs",
+  "SelectedNode": "\\Exam Tranning\\Exam-SoftuniJail\\DataProcesor\\Serializer.cs",
   "PreviewInSolutionExplorer": false
 }
