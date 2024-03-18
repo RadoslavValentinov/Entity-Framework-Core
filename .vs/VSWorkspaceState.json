@@ -3,9 +3,11 @@
     "",
     "\\Exam Tranning",
     "\\Exam Tranning\\Exam-SoftuniJail",
-    "\\Exam Tranning\\Exam-SoftuniJail\\DataProcesor",
-    "\\Exam Tranning\\Exam-SoftuniJail\\Data\\Models"
+    "\\Exam Tranning\\Exam-SoftuniJail\\Data",
+    "\\Exam Tranning\\Exam-SoftuniJail\\Data\\Models",
+    "\\Exam Tranning\\Exam-Theathre",
+    "\\Exam Tranning\\Exam-Theathre\\Data"
   ],
-  "SelectedNode": "\\Exam Tranning\\Exam-SoftuniJail\\DataProcesor\\Serializer.cs",
+  "SelectedNode": "\\Exam Tranning\\Exam-SoftuniJail\\Data\\SoftJailDbContext.cs",
   "PreviewInSolutionExplorer": false
 }
