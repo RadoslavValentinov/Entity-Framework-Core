@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Minion Names")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27c302477a61dd79cdae47af5008e40016c536de")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6803229b44d77a2f68c04ac183f0d39ccc3f51f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Minion Names")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Minion Names")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

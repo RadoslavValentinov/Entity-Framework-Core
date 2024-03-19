@@ -1,13 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Exam Tranning",
-    "\\Exam Tranning\\Exam-SoftuniJail",
-    "\\Exam Tranning\\Exam-SoftuniJail\\Data",
-    "\\Exam Tranning\\Exam-SoftuniJail\\Data\\Models",
-    "\\Exam Tranning\\Exam-Theathre",
-    "\\Exam Tranning\\Exam-Theathre\\Data"
+    "\\FootballBetting",
+    "\\FootballBetting\\P03_FootballBetting.Data",
+    "\\FootballBetting\\P03_FootballBetting.Data.Models"
   ],
-  "SelectedNode": "\\Exam Tranning\\Exam-SoftuniJail\\Data\\SoftJailDbContext.cs",
+  "SelectedNode": "\\FootballBetting\\P03_FootballBetting.Data.Models\\Country.cs",
   "PreviewInSolutionExplorer": false
 }
