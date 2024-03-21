@@ -1,0 +1,67 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DB_CRUD_Basic
+build_property.RootNamespace = DB_CRUD_Basic
+build_property.ProjectDir = C:\Users\Radko\Source\Repos\Entity-Framework-Core\CRUD-Operation With API.Entity.Core\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Radko\Source\Repos\Entity-Framework-Core\CRUD-Operation With API.Entity.Core
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Radko/Source/Repos/Entity-Framework-Core/CRUD-Operation With API.Entity.Core/Viwe/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vml3ZVxIb21lXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Radko/Source/Repos/Entity-Framework-Core/CRUD-Operation With API.Entity.Core/Viwe/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vml3ZVxIb21lXFByaXZhY3kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Radko/Source/Repos/Entity-Framework-Core/CRUD-Operation With API.Entity.Core/Viwe/Registrations/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vml3ZVxSZWdpc3RyYXRpb25zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Radko/Source/Repos/Entity-Framework-Core/CRUD-Operation With API.Entity.Core/Viwe/Registrations/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vml3ZVxSZWdpc3RyYXRpb25zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Radko/Source/Repos/Entity-Framework-Core/CRUD-Operation With API.Entity.Core/Viwe/Registrations/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vml3ZVxSZWdpc3RyYXRpb25zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Radko/Source/Repos/Entity-Framework-Core/CRUD-Operation With API.Entity.Core/Viwe/Registrations/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vml3ZVxSZWdpc3RyYXRpb25zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Radko/Source/Repos/Entity-Framework-Core/CRUD-Operation With API.Entity.Core/Viwe/Registrations/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vml3ZVxSZWdpc3RyYXRpb25zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Radko/Source/Repos/Entity-Framework-Core/CRUD-Operation With API.Entity.Core/Viwe/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vml3ZVxTaGFyZWRcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Radko/Source/Repos/Entity-Framework-Core/CRUD-Operation With API.Entity.Core/Viwe/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vml3ZVxTaGFyZWRcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Radko/Source/Repos/Entity-Framework-Core/CRUD-Operation With API.Entity.Core/Viwe/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vml3ZVxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Radko/Source/Repos/Entity-Framework-Core/CRUD-Operation With API.Entity.Core/Viwe/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vml3ZVxfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Radko/Source/Repos/Entity-Framework-Core/CRUD-Operation With API.Entity.Core/Viwe/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vml3ZVxTaGFyZWRcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-3cn9qxouz7

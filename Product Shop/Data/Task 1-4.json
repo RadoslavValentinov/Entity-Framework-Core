@@ -1,0 +1,14 @@
+{
+  //context.Database.EnsureDeleted();
+  //context.Database.EnsureCreated();
+
+  //string userData = File.ReadAllText("../../../Datasets/users.json");
+  //string productdata = File.ReadAllText("../../../Datasets/products.json");
+  //string categorydata = File.ReadAllText("../../../Datasets/categories.json");
+  //string categoryProductdata = File.ReadAllText("../../../Datasets/categories-products.json");
+  //
+  // Console.WriteLine(ImportCategoryProducts(context, categoryProductdata));
+  //Console.WriteLine(ImportCategories(context, categorydata));
+  //Console.WriteLine(ImportProducts(context, productdata));
+  //Console.WriteLine(ImportUsers(context, userData));
+}
